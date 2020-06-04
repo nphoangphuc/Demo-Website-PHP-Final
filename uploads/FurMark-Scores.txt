@@ -1,0 +1,1 @@
+NVIDIA GeForce GTX 1070 - [Score=10006] - [DurationInMs=60000] - [Resolution=1018x739] - [MSAA=0X] - [Mode=Windowed] - GPU Temp Max=0.0°C - GPU VDDC Current Max=69.0A - FurMark 1.19.0.0 - [Date=Mon Jun 12 18:43:55 2017 ]
